@@ -1,7 +1,7 @@
 # GO:Touch5
 
 This is a simplified fork of Waldt work on [GoPlus](https://github.com/waldt/goplus).
-A have remove the Python parts for now, i have juste worked on the TouchOSC parts.
+I have remove the Python parts for now, i have juste worked on the TouchOSC parts.
 
 ## Whats different between this and GoPlus ?
 
