@@ -1228,4 +1228,3 @@
 | Elec.Perc. | PRC | 87 | 91 | 3 |
 | Reverse Cym | PRC | 87 | 91 | 4 |
 | Reverse Cym Atk | PRC | 87 | 91 | 5 |
- |
