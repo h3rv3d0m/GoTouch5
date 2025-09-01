@@ -4,12 +4,14 @@ This is a simplified fork of Waldt work on GoPlus.
 A have remove the Python parts for now, i have juste worked on the TouchOSC parts.
 
 ## Whats different between this and GoPlus ?
+
 The 2 OSC templates has been updated with :
 - Full liste of Go:keys 3 / 5 tones
 - Channel adaptation (GoKeys 3 and 5 listen on channel 4, not 1 like the first Go:Keys.
 
 - 
 ## What's next ?
+
 - Add a Favorite section on the TouchOSC view
 - Add loop control on TouchOSC
 
@@ -17,7 +19,7 @@ The 2 OSC templates has been updated with :
 
 ## Contributing
 
-We welcome contributions to improve GO:Plus. Please check out our [`CONTRIBUTING.md`](CONTRIBUTING) file for guidelines.
+We welcome contributions to improve this project. Please check out our [`CONTRIBUTING.md`](CONTRIBUTING) file for guidelines.
 
 ## License
 
