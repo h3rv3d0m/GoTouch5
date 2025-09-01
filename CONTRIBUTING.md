@@ -1,6 +1,5 @@
-# Contributing to GO:Plus
-
-Want to help improve GO:Plus?  Here's how you can get involved:
+# Contributing to GO:Touch5
+Want to help improve GO:Touch5 ?  Here's how you can get involved:
 
 ## Reporting Issues
 
@@ -23,5 +22,5 @@ Want to help improve GO:Plus?  Here's how you can get involved:
 
 If you have questions or need help, feel free to open an issue on GitHub.
 
-**Thank you for making GO:Plus even better!**
+**Thank you for making GO:Touch5 even better!**
 
