@@ -1,6 +1,6 @@
-## TouchOSC Templates for GO:KEYS and GO:PIANO
+## TouchOSC Templates for GO:KEYS 3 and 5
 
-This directory contains TouchOSC templates to help you easily browse and select patches on your GO:KEYS or GO:PIANO keyboard.
+This directory contains TouchOSC templates to help you easily browse and select patches on your GO:KEYS 3 or 5
 
 ## What is TouchOSC?
 
